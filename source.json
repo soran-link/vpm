@@ -1,11 +1,11 @@
 {
     "name":"soran VPM Packeages",
     "id":"link.soran.vpm",
-    "url":"https://soran-link.github.io/vpm/index.json",
+    "url":"https://vpm.soran.link/index.json",
     "author":{
-        "name": "Sora Ameno",
-        "email": "info@soran.link",
-        "url": "https://github.com/soran-link"
+        "name":"Sora Ameno",
+        "email":"info@soran.link",
+        "url":"https://github.com/soran-link"
     },
     "description":"soran VPM Packeages",
     "infoLink":{
